@@ -5,7 +5,7 @@
 > This is the top-level view.
 
 ```mermaid
-flowchart LR
+flowchart TB
     A["Pipeline 1<br/>Pull Raw Data<br/>Bloomberg -> raw CSVs"]
     B["Pipeline 2<br/>Process Raw Data<br/>clean, filter, engineer, split"]
     C["Pipeline 3<br/>Model Pipeline<br/>monthly translation, rolling train/test, outputs"]
