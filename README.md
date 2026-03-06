@@ -1,9 +1,11 @@
 # This is where I put high-level report of my FYP. 
 
-There are 3 main pipelines:/n
+There are 3 main pipelines:
 
-Pipeline 1: Pulling raw data from Bloomberg /n
-Pipeline 2: Processing data & Exploration /n
+Pipeline 1: Pulling raw data from Bloomberg
+
+Pipeline 2: Processing data & Exploration
+
 Pipeline 3: Appling ML models
 
 
