@@ -1,4 +1,4 @@
-# This is where I put high-level report of my FYP. 
+# This is where I put high-level report of my final year thesis. 
 
 There are 3 main pipelines:
 
