@@ -27,7 +27,7 @@ Results of models as of 07/03/2026.
 
 **Prediction horizon reviewed:** 180 monthly out-of-sample periods from **2010-08-31** to **2025-07-31**
 
-| Model | R2 OOS Full | R2 OOS on large companies | R2 OOS on small companies | Mean Rank Information coefficient  | Long-only Sharpe | Long-short Sharpe | Benchmark Information ratio | Long-short Annual Return |
+| Model | R2 OOS Full (monthly) | R2 OOS on large companies (monthly) | R2 OOS on small companies (monthly) | Mean Rank Information coefficient  | Long-only Annualized Sharpe | Long-short Annualized Sharpe | Benchmark Information ratio | Long-short Annualized Return |
 | ----- | ----------- | ------------ | ------------ | ------------ | ---------------- | ----------------- | ------------ | ---------- |
 | ENET  | 0.0044      | 0.0039       | -0.0003      | 0.0785       | 0.970            | 1.696             | 0.247        | 40.3%      |
 | PCR   | 0.0025      | 0.0004       | -0.0014      | 0.0545       | 0.825            | 1.146             | 0.098        | 32.8%      |
