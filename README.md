@@ -39,6 +39,15 @@ Results of models as of 07/03/2026. I would call this batch "Kitchen Sink" appoa
 
 *Although short selling is prohibited in VN, for the purpose of comparison I still include it in*
 
+| Model | Top 1                    | Top 2                  | Top 3              | Top 4                | Top 5                   |
+| ----- | ------------------------ | ---------------------- | ------------------ | -------------------- | ----------------------- |
+| ENET  | mom1m (0.789)            | Shares_Out (0.566)     | cfp (0.039)        | ROE_Reported (0.000) | EBITDA (0.000)          |
+| OLS   | FCF (0.120)              | US_Bond_10Y (0.079)    | std_turn (0.077)   | mom6m (0.065)        | Hong_Kong_Index (0.061) |
+| PCR   | Oper_CF (0.075)          | agr (0.075)            | dollar_vol (0.074) | Cur_Assets (0.074)   | Inventory_BS (0.074)    |
+| PLS   | P/B (0.709)              | Price (0.107)          | Shares_Out (0.061) | FCF (0.038)          | std_turn (0.035)        |
+| GBRT  | US_FedFunds_Rate (0.519) | cash_ratio (0.159)     | mom36m (0.122)     | mom1m (0.119)        | Indonesia_Index (0.111) |
+| RF    | Indonesia_Index (0.133)  | Comm_Gold_Spot (0.073) | USD_VND_FX (0.063) | US_GDP_QoQ (0.061)   | Hong_Kong_Index (0.059) |
+| OLS3  | me (1.215)               | be_me (-0.004)         | ret_12_1 (-0.212)  |                      |                         |
 ---
 
 ## 1) System Overview
